@@ -1,0 +1,4 @@
+POST http://localhost:7071/api/HttpTriggerCSharp1
+Content-Type: application/json
+
+{"hello": "world"}
